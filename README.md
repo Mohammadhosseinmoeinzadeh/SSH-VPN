@@ -13,6 +13,8 @@ Very simple SSH panel
 سپس کتابخانه های زیر را نصب کنید 
 
 pip install flask
+
+
 pip install gunicorn
 حالا فایل زیپ را دانلود کنید و در سیستم خودتون از حالت فشرده خارج کنید
 
