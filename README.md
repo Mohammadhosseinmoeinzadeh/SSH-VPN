@@ -19,7 +19,7 @@ pip install gunicorn
 
 
 
-حالا فایل زیپ (ZED Panel.zip) را دانلود کنید.
+حالا فایل زیپ (ZEDPanel.zip) را دانلود کنید.
 
 فایل زیپ را با نرم افزار Bitvise SSH Client  بعد از اتصال به سرور  در قسمت New SFTP window در سرور خود اپلود کنید
 
