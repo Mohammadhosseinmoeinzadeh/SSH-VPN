@@ -6,7 +6,7 @@ Very simple SSH VPN panel
 ابتدا دستور apt update && apt upgrade -y وارد کنید 
 
 
-از نصب بودن python3 روی سرور اطمینان داشته باشید (عموما به صورت پیشفرض نصب هستند)
+از این دستور برای نصب python3 وارد کنید :apt install python3-pip 
 
 
 
