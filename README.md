@@ -1,5 +1,5 @@
 # ZED-Panel-SSH
-Very simple SSH panel
+Very simple SSH VPN panel
 
 
 
