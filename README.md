@@ -17,6 +17,8 @@ pip install flask
 
 pip install gunicorn
 
+pip install pexpect
+
 
 
 حالا فایل زیپ (ZEDPanel.zip) را دانلود کنید.
