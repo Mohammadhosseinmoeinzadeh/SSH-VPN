@@ -14,6 +14,8 @@ Very simple SSH VPN panel
 
 pip install flask && pip install gunicorn && pip install pexpect
 
+apt install unzip
+
 
 
 
