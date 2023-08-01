@@ -12,12 +12,12 @@ Very simple SSH VPN panel
 
 سپس کتابخانه های زیر را نصب کنید 
 
-pip install flask
+pip install flask && pip install gunicorn && pip install pexpect
 
 
-pip install gunicorn
 
-pip install pexpect
+
+
 
 
 
