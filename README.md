@@ -14,6 +14,9 @@ Very simple SSH VPN panel
 
 pip install flask && pip install gunicorn && pip install pexpect && pip install flask_sqlalchemy
 
+
+نصب unzip جهت خارج کردن فایل از حالت فشرده
+
 apt install unzip
 
 
