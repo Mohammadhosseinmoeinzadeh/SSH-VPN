@@ -63,4 +63,3 @@ apt install unzip
  نرم افزار برای اتصال ios و android برنامه napsternetv است. 
  برای windows از برنامه respite vpn  استفاده کنید.
  
-کانکشن های این پنل بر اساس پروتکل ssh  است.
